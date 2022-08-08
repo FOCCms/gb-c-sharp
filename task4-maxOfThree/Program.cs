@@ -17,5 +17,5 @@ for (int i = 1; i < a.Length; i++)
         max = a[i];
     }
 }
-Console.WriteLine(max);
 
+Console.WriteLine(max);
