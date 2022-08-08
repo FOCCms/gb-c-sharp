@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-1", "lesson-1\lesson-1.csproj", "{379E2A26-3422-4997-B109-722230AA60F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2-minAndMax", "task2-minAndMax\task2-minAndMax.csproj", "{2B7DE7D7-D6DF-4025-814C-79F0B55A691B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{379E2A26-3422-4997-B109-722230AA60F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{379E2A26-3422-4997-B109-722230AA60F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{379E2A26-3422-4997-B109-722230AA60F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7DE7D7-D6DF-4025-814C-79F0B55A691B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7DE7D7-D6DF-4025-814C-79F0B55A691B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7DE7D7-D6DF-4025-814C-79F0B55A691B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7DE7D7-D6DF-4025-814C-79F0B55A691B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
