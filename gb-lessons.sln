@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task19-isPalindrome", "task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task21-distanceBetweenPoints", "task21-distanceBetweenPoints\task21-distanceBetweenPoints.csproj", "{26DF31BC-F8C6-4704-887B-88DD6B190DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task23-pow3series", "task23-pow3series\task23-pow3series.csproj", "{408CEACE-6176-4270-A425-15E1848EDF50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{26DF31BC-F8C6-4704-887B-88DD6B190DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26DF31BC-F8C6-4704-887B-88DD6B190DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26DF31BC-F8C6-4704-887B-88DD6B190DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408CEACE-6176-4270-A425-15E1848EDF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408CEACE-6176-4270-A425-15E1848EDF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408CEACE-6176-4270-A425-15E1848EDF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408CEACE-6176-4270-A425-15E1848EDF50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
