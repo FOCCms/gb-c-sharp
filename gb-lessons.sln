@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task10-getSecondNumber", "t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task13-getThirdNumber", "task13-getThirdNumber\task13-getThirdNumber.csproj", "{9E13E22A-2748-45AD-A89F-2D45E331AA8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task15-isWeekend", "task15-isWeekend\task15-isWeekend.csproj", "{6563EC67-6EF0-46DF-82AC-66AA7F68B4EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6563EC67-6EF0-46DF-82AC-66AA7F68B4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6563EC67-6EF0-46DF-82AC-66AA7F68B4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6563EC67-6EF0-46DF-82AC-66AA7F68B4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6563EC67-6EF0-46DF-82AC-66AA7F68B4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
