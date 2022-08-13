@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-1", "lesson-1\lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task10-getSecondNumber", "task10-getSecondNumber\task10-getSecondNumber.csproj", "{AB6D8FDE-0388-4660-909F-F2311333EAB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task13-getThirdNumber", "task13-getThirdNumber\task13-getThirdNumber.csproj", "{9E13E22A-2748-45AD-A89F-2D45E331AA8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AB6D8FDE-0388-4660-909F-F2311333EAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6D8FDE-0388-4660-909F-F2311333EAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6D8FDE-0388-4660-909F-F2311333EAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E13E22A-2748-45AD-A89F-2D45E331AA8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
