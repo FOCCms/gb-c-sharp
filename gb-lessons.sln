@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task25-pow", "task25-pow\ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task27-sumOfDigits", "task27-sumOfDigits\task27-sumOfDigits.csproj", "{81F75C83-6390-4CB5-8B17-248066F6EB56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task29-randomArray", "task29-randomArray\task29-randomArray.csproj", "{7E787AAC-BA13-4832-A3C9-71026DC0A5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{81F75C83-6390-4CB5-8B17-248066F6EB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81F75C83-6390-4CB5-8B17-248066F6EB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81F75C83-6390-4CB5-8B17-248066F6EB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E787AAC-BA13-4832-A3C9-71026DC0A5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E787AAC-BA13-4832-A3C9-71026DC0A5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E787AAC-BA13-4832-A3C9-71026DC0A5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E787AAC-BA13-4832-A3C9-71026DC0A5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
