@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task34-countEven", "task34-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task36-oddIndexSum", "task36-oddIndexSum\task36-oddIndexSum.csproj", "{568FC59D-0B6B-4D2A-98CF-85CE96FF76A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task38-minMaxDifference", "task38-minMaxDifference\task38-minMaxDifference.csproj", "{0ED4C865-CB73-41C3-A0B2-027DE8E4BE8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{568FC59D-0B6B-4D2A-98CF-85CE96FF76A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568FC59D-0B6B-4D2A-98CF-85CE96FF76A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568FC59D-0B6B-4D2A-98CF-85CE96FF76A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED4C865-CB73-41C3-A0B2-027DE8E4BE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED4C865-CB73-41C3-A0B2-027DE8E4BE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED4C865-CB73-41C3-A0B2-027DE8E4BE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED4C865-CB73-41C3-A0B2-027DE8E4BE8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
