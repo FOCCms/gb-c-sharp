@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task47-randomArray", "task4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task50-findElement", "task50-findElement\task50-findElement.csproj", "{A1D8E71F-CFD7-41A3-A806-5017205B5227}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task52-columnAvg", "task52-columnAvg\task52-columnAvg.csproj", "{36DD57CC-228A-4FD9-8ED2-833C02A730A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DD57CC-228A-4FD9-8ED2-833C02A730A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DD57CC-228A-4FD9-8ED2-833C02A730A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DD57CC-228A-4FD9-8ED2-833C02A730A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DD57CC-228A-4FD9-8ED2-833C02A730A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
