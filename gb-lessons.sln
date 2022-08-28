@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-1", "lesson-1\lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task47-randomArray", "task47-randomArray\task47-randomArray.csproj", "{5ECF5035-BD87-4ECD-9C6E-22E2B29F904D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task50-findElement", "task50-findElement\task50-findElement.csproj", "{A1D8E71F-CFD7-41A3-A806-5017205B5227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5ECF5035-BD87-4ECD-9C6E-22E2B29F904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ECF5035-BD87-4ECD-9C6E-22E2B29F904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ECF5035-BD87-4ECD-9C6E-22E2B29F904D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D8E71F-CFD7-41A3-A806-5017205B5227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
