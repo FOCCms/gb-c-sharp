@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-1", "lesson-1\lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task41-belowZeroCounter", "task41-belowZeroCounter\task41-belowZeroCounter.csproj", "{60A43646-EBD1-4C3B-A6E5-C9E3F39A079E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task43-twoLinesIntersectionPoint", "task43-twoLinesIntersectionPoint\task43-twoLinesIntersectionPoint.csproj", "{F394BBFF-2D80-4C39-AC76-B2365C5FFA81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{60A43646-EBD1-4C3B-A6E5-C9E3F39A079E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60A43646-EBD1-4C3B-A6E5-C9E3F39A079E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60A43646-EBD1-4C3B-A6E5-C9E3F39A079E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F394BBFF-2D80-4C39-AC76-B2365C5FFA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F394BBFF-2D80-4C39-AC76-B2365C5FFA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F394BBFF-2D80-4C39-AC76-B2365C5FFA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F394BBFF-2D80-4C39-AC76-B2365C5FFA81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
